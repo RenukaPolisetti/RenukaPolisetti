@@ -1,34 +1,32 @@
 <!---
-Zameel-Byte/Zameel-Byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RenukaPolisetti/RenukaPolisetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Visitor Count](https://profile-counter.glitch.me/Zameel-Byte/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RenukaPolisetti/count.svg)
 <div style="text-align: right">
 
 
-# Hi there, I'm Zameel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Renuka <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor;I+Like+To+Tinker">
 </p>
 
-<p align="center"><img src="https://img.shields.io/github/followers/Zameel-Byte.svg?style=social&label=Follow&maxAge=2592000"></p>
+<p align="center"><img src="https://img.shields.io/github/followers/RenukaPolisetti.svg?style=social&label=Follow&maxAge=2592000"></p>
 
 
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
-<a href="https://twitter.com/ZameelAliMoham3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/zameel-ali-mohammed-055a86204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/polisetti-renuka-21319b235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Zameelalimohammed"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="mailto:zameelalimohammed282003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.gg/MQdZjy68tb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="mailto:renukapolisetti99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br><br>
 ----
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zameel-Byte" alt="Zameel-Byte" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RenukaPolisetti" alt="RenukaPolisetti" /></a> </p>
 
 ----
 
@@ -36,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn as much as I can
 - ⚡ Fun fact: I love to play games
 <br>
 ----
@@ -51,15 +49,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Github stats
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Zameel-Byte&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RenukaPolisetti&show_icons=true)
 
 ## Languages used
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Zameel-Byte)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/RenukaPolisetti)
 
 ## Contributors Badge
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=just-innovative-bro/F.R.I.D.A.Y)
+![Your Repository's Stats]
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
